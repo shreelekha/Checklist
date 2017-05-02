@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Checklist.xcodeproj">
+      location = "self:/Users/shree/projects/Checklist/Checklists.xcodeproj">
    </FileRef>
 </Workspace>
